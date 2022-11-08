@@ -17,9 +17,11 @@ Content
 
 ### Licence
 
-**{HUMAN_READABLE_PROJECT_NAME}** is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+**{HUMAN_READABLE_PROJECT_NAME}** is published under the Creative Commons CC0 license. You can find a copy of the licence there : https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-**{HUMAN_READABLE_PROJECT_NAME}** is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+**{HUMAN_READABLE_PROJECT_NAME}** is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ### Release notes
 
@@ -38,12 +40,8 @@ Content
 To get the latest available work, one must clone the git repository, build and install the package.
 
 	git clone https://github.com/{GITHUB_USER__REPOSITORY}.git
-	<do some other commands>
 
-
-### Using {SPECIFIC TOOL}
-
-> like pip, as maven dependency in a project, etc...
+Then, open the project with {SPECIFIC TOOL}.
 
 ## 4. Known issues
 See the [project issues](https://github.com/{GITHUB_USER__REPOSITORY}/issues) page.
