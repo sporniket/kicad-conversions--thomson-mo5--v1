@@ -29,7 +29,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ## 2. What should you know before using **{HUMAN_READABLE_PROJECT_NAME}** ?
 
-**{HUMAN_READABLE_PROJECT_NAME}** is written using this language, those libraries, and so on...
+**{HUMAN_READABLE_PROJECT_NAME}** is made using {SPECIFIC TOOL}.
 
 > Do not use **{HUMAN_READABLE_PROJECT_NAME}** if this project is not suitable for your project.
 
