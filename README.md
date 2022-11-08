@@ -24,7 +24,7 @@ sed -i.bak \
 	-e 's/{HUMAN_READABLE_PROJECT_NAME}/My greatest project of all time/g' \
 	-e 's+{GITHUB_USER__REPOSITORY}+foo/bar+g' \
 	-e 's/{SPECIFIC TOOL}/something/g' \
-	README-template.md
+	README.md
 ```
 
 ## Initialise a new Kicad project
