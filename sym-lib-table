@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "mc6809")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/mc6809.lib")(options "")(descr ""))
   (lib (name "gate_array_v1")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/thomson-mo/gate_array_v1.lib")(options "")(descr ""))
+  (lib (name "tms4416")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/tms4416.lib")(options "")(descr ""))
 )

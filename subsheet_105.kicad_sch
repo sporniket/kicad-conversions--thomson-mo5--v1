@@ -2,7 +2,12 @@
 
   (uuid 238764bf-6c8d-42f0-a1f3-b71d13a7e7b5)
 
-  (paper "A4")
+  (paper "A4" portrait)
+
+  (title_block
+    (date "2023-05-12")
+    (rev "DRAFT")
+  )
 
   (lib_symbols
   )
