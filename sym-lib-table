@@ -3,4 +3,6 @@
   (lib (name "gate_array_v1")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/thomson-mo/gate_array_v1.lib")(options "")(descr ""))
   (lib (name "tms4416")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/tms4416.lib")(options "")(descr ""))
   (lib (name "mc6821p")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/mc6821p.lib")(options "")(descr ""))
+  (lib (name "74x151")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x151.lib")(options "")(descr ""))
+  (lib (name "74x156")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x156.lib")(options "")(descr ""))
 )
