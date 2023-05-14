@@ -6,4 +6,6 @@
   (lib (name "74x151")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x151.lib")(options "")(descr ""))
   (lib (name "74x156")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x156.lib")(options "")(descr ""))
   (lib (name "74x245")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x245.lib")(options "")(descr ""))
+  (lib (name "74x11")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x11.lib")(options "")(descr ""))
+  (lib (name "74x32")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x32.lib")(options "")(descr ""))
 )
