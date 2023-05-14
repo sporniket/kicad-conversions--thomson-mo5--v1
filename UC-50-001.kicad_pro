@@ -335,7 +335,7 @@
     ],
     [
       "b7e71b61-5858-491f-a12d-087d8cf2d648",
-      "I48–MC6821P - ports clavier, crayon optique et LEP"
+      "I48–MC6821P ; I52–53–B04–B05–ports clavier ; PM01–LEP ; PM02–Crayon optique"
     ],
     [
       "ecfd8528-d7bf-4f5f-9e5b-93e6e3949e61",
@@ -351,7 +351,7 @@
     ],
     [
       "86f44e2a-9fb4-43d0-b64c-d20135fe820e",
-      "Circuit d'alimentation"
+      "I54–55–Circuit d'alimentation +18V vers +5V"
     ]
   ],
   "text_variables": {}
