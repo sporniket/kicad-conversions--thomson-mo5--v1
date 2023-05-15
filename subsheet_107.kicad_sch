@@ -709,8 +709,8 @@
   )
 
   (no_connect (at 152.4 104.14) (uuid a7db9e0f-47af-400a-b835-4bc386796a5f))
-  (no_connect (at 152.4 101.6) (uuid a7db9e0f-47af-400a-b835-4bc386796a5f))
-  (no_connect (at 109.22 96.52) (uuid a7db9e0f-47af-400a-b835-4bc386796a5f))
+  (no_connect (at 152.4 101.6) (uuid a7db9e0f-47af-400a-b835-4bc386796a60))
+  (no_connect (at 109.22 96.52) (uuid a7db9e0f-47af-400a-b835-4bc386796a61))
 
   (wire (pts (xy 153.67 46.99) (xy 153.67 50.8))
     (stroke (width 0) (type default) (color 0 0 0 0))
