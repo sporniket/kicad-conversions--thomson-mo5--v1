@@ -804,7 +804,7 @@
       (reference "I55") (unit 1) (value "LM311N Comparateur différentiel") (footprint "Package_DIP:DIP-8_W7.62mm_LongPads")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/78fc422e-e0a3-4882-9e32-ee3d527dcf25"
-      (reference "L01") (unit 1) (value "150 ???") (footprint "")
+      (reference "L01") (unit 1) (value "150mH") (footprint "")
     )
     (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/d81ad442-6c96-4a01-9e0b-686f90457f12"
       (reference "L02") (unit 1) (value "350uH") (footprint "")
