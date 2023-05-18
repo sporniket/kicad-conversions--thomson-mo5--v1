@@ -26,7 +26,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 10b20128-1f32-45c7-94f3-33002744903c)
-    (property "Sheet name" "Port vidéo" (id 0) (at 30.48 110.7834 0)
+    (property "Sheet name" "I03–06–10–18–25–B03–Circuit et port vidéo " (id 0) (at 30.48 110.7834 0)
       (effects (font (size 1.8 1.8)) (justify left bottom))
     )
     (property "Sheet file" "subsheet_105.kicad_sch" (id 1) (at 30.48 116.1546 0)
