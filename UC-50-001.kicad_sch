@@ -1022,5 +1022,8 @@
     (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/ed2780e7-2f55-4acb-abb2-04a675eb2be6"
       (reference "T12") (unit 1) (value "BDX54") (footprint "")
     )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/2465d44d-0807-47f3-afe8-09c2126ab9ea"
+      (reference "ZW01") (unit 1) (value "TestPoint") (footprint "")
+    )
   )
 )
