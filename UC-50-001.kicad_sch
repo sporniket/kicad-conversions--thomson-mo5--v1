@@ -6,7 +6,7 @@
 
   (title_block
     (title "Conversion du Thomson MO5 — Unité centrale v1")
-    (date "2023-05-18")
+    (date "2023-05-19")
     (rev "DRAFT")
     (comment 1 "http://github.com/sporniket/kicad-conversions--thomson-mo5--v1")
     (comment 3 "Gate Array Motorola MCA 1300 ALS")
@@ -221,9 +221,6 @@
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/217e0a53-66a0-459f-992a-01e611a901ab"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/22122e75-31e4-452b-b74e-5c9a5d195af8"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/247a424e-59b0-4969-a300-9e89f564274f"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -282,6 +279,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/10b20128-1f32-45c7-94f3-33002744903c/4f1645e7-2d3f-4f3e-a86a-fde3e171b6ea"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/4f803d03-06c7-43f3-8323-6676ec11a8ce"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/4f8abb97-a7f4-4f12-ae4d-38fe729ef6a0"
@@ -362,13 +362,13 @@
     (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/76921501-701f-4c1f-8225-7bfdc888d467"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/76ceb1f9-4cc7-4f3b-ac38-4adfa89e604f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/788ba752-7b52-4766-8047-47a3f61e31bd"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/79b11a12-49a8-4bd4-bf74-2de37440150c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/7a206d3b-2565-4622-bf20-3437c0ba7692"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/7a850e21-fe02-433b-821b-e708b7d4d4ac"
@@ -448,6 +448,9 @@
     )
     (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/ab07dc6a-bf4c-411b-8897-c868ce9f8483"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/acc6899d-f69b-47e3-a544-96c4af1ab971"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/af36cbd3-504d-4ffe-bc7f-7e04d1516199"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -852,7 +855,7 @@
       (reference "I47") (unit 1) (value "74LS211 Double multi-vibrateur monostable") (footprint "Package_DIP:DIP-16_W7.62mm_LongPads")
     )
     (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/d5845f7a-5010-4c58-a702-33af790aa3cb"
-      (reference "I48") (unit 1) (value "PERIPHERAL_INTERFACE_ADAPTER_PHY") (footprint "Package_DIP:DIP-40_W15.24mm_LongPads")
+      (reference "I48") (unit 1) (value "MC6821 Peripheral Interface Adapter") (footprint "Package_DIP:DIP-40_W15.24mm_LongPads")
     )
     (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/5d16e7f8-03a5-44af-8404-65eb05f807ce"
       (reference "I52") (unit 1) (value "74LS151 MULTIPLEXER") (footprint "Package_DIP:DIP-16_W7.62mm_LongPads")
@@ -881,8 +884,8 @@
     (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/5999c531-4211-49b6-9884-4f174640d57f"
       (reference "PM01") (unit 1) (value "DIN-5 Port LEP") (footprint "")
     )
-    (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/1fa27dde-23e2-4684-bd8e-5b33df6ef44f"
-      (reference "PM02") (unit 1) (value "Port crayon optique") (footprint "")
+    (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/3e5e7475-fbc5-4f41-9719-926d69a27261"
+      (reference "PM02") (unit 1) (value "Crayon optique") (footprint "")
     )
     (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/922db1b9-33f6-45e5-aa08-a3ad8d5212bb"
       (reference "PM03") (unit 1) (value "Prise alimentation") (footprint "")

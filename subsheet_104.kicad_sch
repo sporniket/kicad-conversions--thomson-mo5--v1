@@ -6,7 +6,7 @@
 
   (title_block
     (title "Conversion du Thomson MO5 — Unité centrale v1")
-    (date "2023-05-18")
+    (date "2023-05-19")
     (rev "DRAFT")
     (comment 1 "http://github.com/sporniket/kicad-conversions--thomson-mo5--v1")
     (comment 3 "Gate Array Motorola MCA 1300 ALS")
