@@ -18,4 +18,6 @@
   (lib (name "74x126")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x126.lib")(options "")(descr ""))
   (lib (name "74x165")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x165.lib")(options "")(descr ""))
   (lib (name "connectors_with_ground")(type "KiCad")(uri "${KIPRJMOD}/kicad-symbols-handmade/connectors_with_ground.kicad_sym")(options "")(descr ""))
+  (lib (name "27128")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/27128.lib")(options "")(descr ""))
+  (lib (name "hm7603")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/hm7603.lib")(options "")(descr ""))
 )
