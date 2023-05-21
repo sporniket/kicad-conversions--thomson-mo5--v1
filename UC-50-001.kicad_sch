@@ -260,6 +260,9 @@
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/32addb73-8495-4d15-b6c8-762e723c235f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/3662c3bd-ac8c-4edc-99ec-0558e6456aba"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/36b0985a-665f-4169-b225-dc69e13a5cac"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -401,6 +404,9 @@
     (path "/f465a4b1-7c3c-40cc-9e66-ff9f17003d42/77bb5d36-e978-4097-bb22-0247eab1266c"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/783e55a1-86e0-45de-a7e4-f59aac78c365"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/788ba752-7b52-4766-8047-47a3f61e31bd"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -532,6 +538,9 @@
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/b0a3fdc7-1955-470f-9bb0-ee6c1a5faef2"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/b20d0817-6e1f-47f1-87be-06097301834d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/b55ee63a-aaae-42e9-84d3-b895cf4e017c"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -806,6 +815,9 @@
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/f3d75b2b-a10e-400b-95b7-25d1a994b88f"
       (reference "C43") (unit 1) (value "47nF") (footprint "")
     )
+    (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/16baa242-b437-46d3-9c7a-7996f274e4ed"
+      (reference "C44") (unit 1) (value "47nF") (footprint "")
+    )
     (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/4a1ea682-f919-4a80-8d0a-bac0a53e03fa"
       (reference "C47") (unit 1) (value "47nF") (footprint "")
     )
@@ -952,6 +964,9 @@
     )
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/5544af09-10f1-4418-a4ab-05a6362d4390"
       (reference "I12") (unit 1) (value "74LS11 – 3×3 inputs AND gates") (footprint "Package_DIP:DIP-14_W7.62mm_LongPads")
+    )
+    (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/ab9bd825-b21c-4b2f-8199-64f2d5308e61"
+      (reference "I16") (unit 1) (value "74LS04 Sextuple inverseur") (footprint "Package_DIP:DIP-14_W7.62mm_LongPads")
     )
     (path "/3b9df46e-3592-4470-9765-1c36c3c4b1c2/72e2b5de-308f-467f-abcc-77d273bcfa07"
       (reference "I17") (unit 1) (value "74LS245 – Bus transceiver") (footprint "Package_DIP:DIP-20_W7.62mm_LongPads")
