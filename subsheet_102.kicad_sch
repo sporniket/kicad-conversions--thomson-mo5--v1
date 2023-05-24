@@ -7,7 +7,7 @@
   (title_block
     (title "Conversion du Thomson MO5 — Unité centrale v1")
     (date "2023-05-24")
-    (rev "ALPHA")
+    (rev "v1.0.0-alpha")
     (comment 1 "http://github.com/sporniket/kicad-conversions--thomson-mo5--v1")
     (comment 3 "Gate Array Motorola MCA 1300 ALS")
     (comment 4 "Reference : POP5001 501994-01")

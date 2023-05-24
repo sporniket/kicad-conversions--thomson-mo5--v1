@@ -25,7 +25,9 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ### Release notes
 
-> No releases yet
+#### v1.0.0-alpha
+
+The whole schematics has been captured, need proofreading.
 
 ## 2. What should you know before using **Conversion of the Thomson MO5 main board into Kicad** ?
 
@@ -39,7 +41,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 To get the latest available work, one must clone the git repository.
 
-	git clone https://github.com/sporniket/kicad-conversions--thomson-mo5--v1.git
+	git clone --recurse-submodules https://github.com/sporniket/kicad-conversions--thomson-mo5--v1.git
 
 Then, open the project with Kicad 6.
 
