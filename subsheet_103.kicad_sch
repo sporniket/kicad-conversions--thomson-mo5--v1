@@ -2519,7 +2519,7 @@
   (symbol (lib_id "Device:C_Small") (at 53.34 220.98 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 36dce4c7-2705-4bcb-b676-3fb13d1e9187)
-    (property "Reference" "C7" (id 0) (at 52.07 219.71 90)
+    (property "Reference" "C17" (id 0) (at 52.07 219.71 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "220nF" (id 1) (at 54.61 219.71 90)
