@@ -110,7 +110,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 86f44e2a-9fb4-43d0-b64c-d20135fe820e)
-    (property "Sheet name" "I54–55–Circuit d'alimentation +18V vers +5V" (id 0) (at 30.48 145.0734 0)
+    (property "Sheet name" "I54–55–Circuit d'alimentation +18V vers +5V — Trous de montage" (id 0) (at 30.48 145.0734 0)
       (effects (font (size 1.8 1.8)) (justify left bottom))
     )
     (property "Sheet file" "subsheet_107.kicad_sch" (id 1) (at 30.48 150.4446 0)
@@ -953,6 +953,30 @@
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/b8f9a6b5-8cd1-4946-86eb-3130ceb9afc9"
       (reference "D08") (unit 1) (value "?? 1N4148") (footprint "")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/da429d6e-09f9-4359-87f0-5986ac9e08cb"
+      (reference "H1") (unit 1) (value "3,5 mm") (footprint "mounting-holes-mo5:MountingHole_3.5mm_limited_courtyard")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/e844089c-2f6d-44bc-b975-b8b654fb2774"
+      (reference "H2") (unit 1) (value "3,5 mm") (footprint "mounting-holes-mo5:MountingHole_3.5mm_limited_courtyard")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/6cedb50b-7a38-410d-ad59-12572281bebc"
+      (reference "H3") (unit 1) (value "4 mm") (footprint "mounting-holes-mo5:MountingHole_4mm_limited_courtyard")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/94adfc7e-f979-4958-9a9b-251aee8c3276"
+      (reference "H4") (unit 1) (value "4 mm") (footprint "mounting-holes-mo5:MountingHole_4mm_limited_courtyard")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/09a1a547-1d52-4c98-9378-410ccbcc9554"
+      (reference "H5") (unit 1) (value "4 mm") (footprint "mounting-holes-mo5:MountingHole_4mm_limited_courtyard")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/331cc9d3-6c87-4928-92a7-2c4f9e7a5841"
+      (reference "H6") (unit 1) (value "4 mm") (footprint "mounting-holes-mo5:MountingHole_4mm_limited_courtyard")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/453cd238-dd99-4433-92d7-b7ebfaa87a6b"
+      (reference "H7") (unit 1) (value "8,8 mm") (footprint "mounting-holes-mo5:MountingHole_8.8mm_limited_courtyard")
+    )
+    (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/9b905902-827e-455d-8a70-6c0832fbc729"
+      (reference "H8") (unit 1) (value "8,8 mm") (footprint "mounting-holes-mo5:MountingHole_8.8mm_limited_courtyard")
     )
     (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/63085d07-f111-48f0-9996-774660e796f0"
       (reference "I01") (unit 1) (value "MC6809EP") (footprint "Package_DIP:DIP-40_W15.24mm_LongPads")
