@@ -1288,7 +1288,7 @@
       (reference "R71") (unit 1) (value "100K") (footprint "commons-passives_THT:Passive_THT_resistor_EU_W2.54mm_L12.70mm")
     )
     (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/74dd670a-3af9-4c07-aa2f-9ff33e25004f"
-      (reference "R72") (unit 1) (value "39K") (footprint "")
+      (reference "R72") (unit 1) (value "39K") (footprint "commons-passives_THT:Passive_THT_resistor_EU_W2.54mm_L5.08mm")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/32d8582f-f55a-415f-b745-99e722071feb"
       (reference "R73") (unit 1) (value "47") (footprint "commons-passives_THT:Passive_THT_resistor_EU_W2.54mm_L12.70mm")
@@ -1327,46 +1327,46 @@
       (reference "S01") (unit 1) (value "Initial Prog.") (footprint "")
     )
     (path "/10b20128-1f32-45c7-94f3-33002744903c/1e4e59bf-7354-4222-ba6c-27691c3a1609"
-      (reference "T01") (unit 1) (value "BC547B") (footprint "")
+      (reference "T01") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/10b20128-1f32-45c7-94f3-33002744903c/7fc2387e-dacc-48fd-be8b-86c000bddee6"
-      (reference "T02") (unit 1) (value "BC547B") (footprint "")
+      (reference "T02") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/10b20128-1f32-45c7-94f3-33002744903c/365a7a91-1e27-4e3b-abdd-d9702c6ba37d"
-      (reference "T03") (unit 1) (value "BC547B") (footprint "")
+      (reference "T03") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/a6f6b0a6-f481-42cc-946e-5c4cfc619990"
-      (reference "T04") (unit 1) (value "BC557B") (footprint "")
+      (reference "T04") (unit 1) (value "BC557B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/946174ab-5ec7-4038-9187-d97c54504ab3"
-      (reference "T05") (unit 1) (value "BC337-40") (footprint "")
+      (reference "T05") (unit 1) (value "BC337-40") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/def00b0c-10b8-4849-b2ea-fe688ab24358"
-      (reference "T06") (unit 1) (value "BC547B") (footprint "")
+      (reference "T06") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/6b99380e-c2d6-467d-8086-5d0580fb4b40"
-      (reference "T07") (unit 1) (value "BC547B") (footprint "")
+      (reference "T07") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/8c65fbe1-8285-48ef-8629-9fbf1a151a9c"
-      (reference "T08") (unit 1) (value "BC557B") (footprint "")
+      (reference "T08") (unit 1) (value "BC557B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/61262fec-323b-4fe0-ade7-750c274c4797"
-      (reference "T09") (unit 1) (value "BC547B") (footprint "")
+      (reference "T09") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/5bc88827-eabc-47b8-aae8-e2a9bf849854"
-      (reference "T10") (unit 1) (value "BC547B") (footprint "")
+      (reference "T10") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/b7e71b61-5858-491f-a12d-087d8cf2d648/cb3eda70-4f82-436a-8212-b27f1a0704c3"
-      (reference "T11") (unit 1) (value "BC 547 B") (footprint "")
+      (reference "T11") (unit 1) (value "BC 547 B") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/ed2780e7-2f55-4acb-abb2-04a675eb2be6"
-      (reference "T12") (unit 1) (value "BDX54") (footprint "")
+      (reference "T12") (unit 1) (value "BDX54") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/2465d44d-0807-47f3-afe8-09c2126ab9ea"
-      (reference "ZW01") (unit 1) (value "TestPoint") (footprint "")
+      (reference "ZW01") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
     (path "/ecfd8528-d7bf-4f5f-9e5b-93e6e3949e61/2f05bb92-c655-497b-b4e6-cefde952e53e"
-      (reference "ZW02") (unit 1) (value "TestPoint") (footprint "")
+      (reference "ZW02") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
   )
 )

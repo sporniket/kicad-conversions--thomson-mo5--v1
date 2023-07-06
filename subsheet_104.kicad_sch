@@ -1721,7 +1721,7 @@
     (uuid 2f05bb92-c655-497b-b4e6-cefde952e53e)
     (property "Reference" "ZW02" (id 0) (at 73.66 186.182 0))
     (property "Value" "TestPoint" (id 1) (at 73.66 187.96 0))
-    (property "Footprint" "" (id 2) (at 78.74 193.04 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (id 2) (at 78.74 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 78.74 193.04 0)
