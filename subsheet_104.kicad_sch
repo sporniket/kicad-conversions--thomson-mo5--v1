@@ -1821,7 +1821,7 @@
     (uuid 9df7ba61-968e-4a85-8033-e7f5282af7e8)
     (property "Reference" "B06" (id 0) (at 101.6 111.76 0))
     (property "Value" "Port cartouche (rangée 'a' vers le sud)" (id 1) (at 101.6 152.4 0))
-    (property "Footprint" "" (id 2) (at 100.33 132.08 0)
+    (property "Footprint" "thomson-moto-interconnect:cartridge_port_2x13_pcb_edge_pitch_100mils_row_pitch_200mils" (id 2) (at 100.33 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 100.33 132.08 0)

@@ -748,7 +748,7 @@
       (reference "B05") (unit 1) (value "Port B du clavier") (footprint "")
     )
     (path "/ecfd8528-d7bf-4f5f-9e5b-93e6e3949e61/9df7ba61-968e-4a85-8033-e7f5282af7e8"
-      (reference "B06") (unit 1) (value "Port cartouche (rangée 'a' vers le sud)") (footprint "")
+      (reference "B06") (unit 1) (value "Port cartouche (rangée 'a' vers le sud)") (footprint "thomson-moto-interconnect:cartridge_port_2x13_pcb_edge_pitch_100mils_row_pitch_200mils")
     )
     (path "/afd59d07-bfd6-4bc9-8176-e0ddec1872a1/b1f3febb-cebe-447d-bd66-d33f45b30c3e"
       (reference "C01") (unit 1) (value "100uF") (footprint "commons-passives_THT:Passive_THT_capacitor_polarized_EU_W2.54mm_L5.08mm")
