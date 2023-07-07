@@ -733,10 +733,10 @@
       (reference "#PWR0292") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ecfd8528-d7bf-4f5f-9e5b-93e6e3949e61/f248b6d2-2118-4767-85b6-d07965d159e9"
-      (reference "B01") (unit 1) (value "Connecteur extension (dessous)") (footprint "")
+      (reference "B01") (unit 1) (value "Connecteur extension (dessous)") (footprint "thomson-moto-interconnect:extension_port_1x19_backside_2mm_pad_width_2.54mm_pad_pitch")
     )
     (path "/ecfd8528-d7bf-4f5f-9e5b-93e6e3949e61/4db7826c-9a3f-4825-a01f-e5fecf3c7f36"
-      (reference "B02") (unit 1) (value "Connecteur extension (dessus)") (footprint "")
+      (reference "B02") (unit 1) (value "Connecteur extension (dessus)") (footprint "thomson-moto-interconnect:extension_port_1x19_topside_2mm_pad_width_2.54mm_pad_pitch")
     )
     (path "/10b20128-1f32-45c7-94f3-33002744903c/8dd785d1-511d-4538-964b-312a69d957a7"
       (reference "B03") (unit 1) (value "Sortie vidéo") (footprint "")
