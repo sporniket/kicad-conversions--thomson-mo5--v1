@@ -2557,7 +2557,7 @@
     (property "Value" "BZX46C" (id 1) (at 171.45 180.34 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 170.18 179.07 90)
+    (property "Footprint" "commons-passives_THT:Passive_THT_diode_W2.54mm_L12.70mm" (id 2) (at 170.18 179.07 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 170.18 179.07 90)

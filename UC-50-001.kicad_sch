@@ -934,7 +934,7 @@
       (reference "D01") (unit 1) (value "1N4148") (footprint "commons-passives_THT:Passive_THT_diode_W2.54mm_L12.70mm")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/509b2e19-3de7-4ba5-a297-4930a2051e42"
-      (reference "D02") (unit 1) (value "BZX46C") (footprint "")
+      (reference "D02") (unit 1) (value "BZX46C") (footprint "commons-passives_THT:Passive_THT_diode_W2.54mm_L12.70mm")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/8519209d-d5f5-4a14-be20-e1f4abc16ff4"
       (reference "D03") (unit 1) (value "1N4148") (footprint "commons-passives_THT:Passive_THT_diode_W2.54mm_L12.70mm")
