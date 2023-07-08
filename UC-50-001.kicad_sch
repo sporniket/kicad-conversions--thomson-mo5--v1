@@ -949,7 +949,7 @@
       (reference "D06") (unit 1) (value "1N4148") (footprint "commons-passives_THT:Passive_THT_diode_W2.54mm_L12.70mm")
     )
     (path "/86f44e2a-9fb4-43d0-b64c-d20135fe820e/54dfed87-fbe5-47ab-b620-2d6ba5ea0bcb"
-      (reference "D07") (unit 1) (value "BYW98-100") (footprint "")
+      (reference "D07") (unit 1) (value "BYW98-100") (footprint "commons-passives_THT:Passive_THT_diode_power_W5.715mm_L17.78mm")
     )
     (path "/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45/b8f9a6b5-8cd1-4946-86eb-3130ceb9afc9"
       (reference "D08") (unit 1) (value "1N4148") (footprint "commons-passives_THT:Passive_THT_diode_W2.54mm_L12.70mm")

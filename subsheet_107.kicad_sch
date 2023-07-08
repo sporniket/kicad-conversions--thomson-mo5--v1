@@ -1348,7 +1348,7 @@
     (property "Value" "BYW98-100" (id 1) (at 102.87 64.77 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 101.6 63.5 90)
+    (property "Footprint" "commons-passives_THT:Passive_THT_diode_power_W5.715mm_L17.78mm" (id 2) (at 101.6 63.5 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 63.5 90)
