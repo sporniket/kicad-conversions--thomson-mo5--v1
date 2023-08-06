@@ -1045,7 +1045,7 @@
       (reference "I27") (unit 1) (value "DM7486N 4×2 inputs XOR gates") (footprint "Package_DIP:DIP-14_W7.62mm_LongPads")
     )
     (path "/f465a4b1-7c3c-40cc-9e66-ff9f17003d42/2edb98bf-6c70-4551-a503-f7af487edfe6"
-      (reference "I29") (unit 1) (value "GATE_ARRAY_MO5_V1_PHY") (footprint "Package_LCC:PLCC-68_THT-Socket")
+      (reference "I29") (unit 1) (value "GATE_ARRAY_MO5_V1_PHY") (footprint "thomson-moto-interconnect:gate_array_plcc68_staggered_with_key_hole")
     )
     (path "/5f0e2042-532a-4df5-a841-fef7a1a0ec91/9815ecff-8eb6-4dcf-ab38-bea50afd782a"
       (reference "I32") (unit 1) (value "74X20 2×4 inputs NAND gates") (footprint "Package_DIP:DIP-14_W7.62mm_LongPads")
