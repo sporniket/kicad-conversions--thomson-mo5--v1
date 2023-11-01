@@ -2372,7 +2372,7 @@
     (property "Value" "16MHz" (at 171.45 228.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 168.91 229.87 0)
+    (property "Footprint" "Crystal:Crystal_HC49-U_Horizontal" (at 168.91 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 168.91 229.87 0)

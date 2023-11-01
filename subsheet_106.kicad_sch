@@ -3101,7 +3101,7 @@
     (property "Value" "150mH" (at 135.382 159.766 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 134.62 158.75 0)
+    (property "Footprint" "commons-passives_THT:Passive_THT_inductor_W5.08mm_L12.70mm" (at 134.62 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 134.62 158.75 0)
