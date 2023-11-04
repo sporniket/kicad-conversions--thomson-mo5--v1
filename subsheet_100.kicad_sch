@@ -2363,14 +2363,14 @@
     )
   )
 
-  (symbol (lib_id "Device:Crystal_Small") (at 168.91 229.87 0) (unit 1)
+  (symbol (lib_id "Device:Crystal_Small") (at 168.91 229.87 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9eacef68-2af9-4b4a-913f-deab09fc1781)
     (property "Reference" "Q01" (at 166.37 228.6 0)
-      (effects (font (size 1.27 1.27)) (justify right))
+      (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "16MHz" (at 171.45 228.6 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Crystal:Crystal_HC49-U_Horizontal" (at 168.91 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2378,8 +2378,8 @@
     (property "Datasheet" "~" (at 168.91 229.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b695beee-10af-49fc-b958-675b1f9b1740))
-    (pin "2" (uuid 6ce00071-9f80-46a2-b112-32bf0bd6f2bf))
+    (pin "1" (uuid ae4dd430-2d0f-4b2c-9e12-b6f714f69c89))
+    (pin "2" (uuid 76b69fa0-9c7c-4f57-90d6-08503a781f6f))
     (instances
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/afd59d07-bfd6-4bc9-8176-e0ddec1872a1"
