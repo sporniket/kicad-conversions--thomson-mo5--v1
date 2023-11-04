@@ -1784,7 +1784,7 @@
     (property "Value" "L78L05_TO92" (at 76.2 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (at 76.2 95.885 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide" (at 76.2 95.885 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf" (at 76.2 102.87 0)
