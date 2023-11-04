@@ -3245,7 +3245,7 @@
     (property "Value" "Sortie vidéo" (at 20.32 205.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 20.32 218.44 0)
+    (property "Footprint" "thomson-moto-interconnect:Keyed_MaleReceptacle_1x09_P2.54mm_THT_Vertical" (at 20.32 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 20.32 218.44 0)

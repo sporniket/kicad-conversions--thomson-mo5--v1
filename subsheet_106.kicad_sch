@@ -3824,7 +3824,7 @@
     (property "Value" "1K" (at 41.91 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 40.64 83.82 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical_Hole" (at 40.64 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 83.82 0)

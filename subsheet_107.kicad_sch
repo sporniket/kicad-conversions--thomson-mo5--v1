@@ -1634,7 +1634,7 @@
     (property "Value" "Prise alimentation" (at 29.21 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 30.48 100.076 0)
+    (property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal" (at 30.48 100.076 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 30.48 100.076 0)
