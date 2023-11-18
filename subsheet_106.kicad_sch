@@ -551,11 +551,11 @@
         )
       )
     )
-    (symbol "Device:Q_NPN_EBC" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "Device:Q_NPN_CBE" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 5.08 1.27 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Value" "Q_NPN_EBC" (at 5.08 -1.27 0)
+      (property "Value" "Q_NPN_CBE" (at 5.08 -1.27 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
       (property "Footprint" "" (at 5.08 2.54 0)
@@ -567,10 +567,10 @@
       (property "ki_keywords" "transistor NPN" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "NPN transistor, emitter/base/collector" (at 0 0 0)
+      (property "ki_description" "NPN transistor, collector/base/emitter" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "Q_NPN_EBC_0_1"
+      (symbol "Q_NPN_CBE_0_1"
         (polyline
           (pts
             (xy 0.635 0.635)
@@ -613,17 +613,17 @@
           (fill (type none))
         )
       )
-      (symbol "Q_NPN_EBC_1_1"
-        (pin passive line (at 2.54 -5.08 90) (length 2.54)
-          (name "E" (effects (font (size 1.27 1.27))))
+      (symbol "Q_NPN_CBE_1_1"
+        (pin passive line (at 2.54 5.08 270) (length 2.54)
+          (name "C" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at -5.08 0 0) (length 5.715)
+        (pin input line (at -5.08 0 0) (length 5.715)
           (name "B" (effects (font (size 1.27 1.27))))
           (number "2" (effects (font (size 1.27 1.27))))
         )
-        (pin passive line (at 2.54 5.08 270) (length 2.54)
-          (name "C" (effects (font (size 1.27 1.27))))
+        (pin passive line (at 2.54 -5.08 90) (length 2.54)
+          (name "E" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
       )
@@ -2807,7 +2807,7 @@
     )
   )
 
-  (symbol (lib_id "Device:Q_NPN_EBC") (at 38.1 67.31 0) (unit 1)
+  (symbol (lib_id "Device:Q_NPN_CBE") (at 38.1 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5bc88827-eabc-47b8-aae8-e2a9bf849854)
     (property "Reference" "T10" (at 43.18 66.04 0)
@@ -2859,7 +2859,7 @@
     )
   )
 
-  (symbol (lib_id "Device:Q_NPN_EBC") (at 59.69 67.31 0) (unit 1)
+  (symbol (lib_id "Device:Q_NPN_CBE") (at 59.69 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 61262fec-323b-4fe0-ade7-750c274c4797)
     (property "Reference" "T09" (at 64.77 66.04 0)
@@ -2936,7 +2936,7 @@
     )
   )
 
-  (symbol (lib_id "Device:Q_NPN_EBC") (at 49.53 26.67 0) (unit 1)
+  (symbol (lib_id "Device:Q_NPN_CBE") (at 49.53 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b99380e-c2d6-467d-8086-5d0580fb4b40)
     (property "Reference" "T07" (at 54.61 25.4 0)
@@ -3197,7 +3197,7 @@
     )
   )
 
-  (symbol (lib_id "Device:Q_NPN_EBC") (at 132.08 173.99 0) (unit 1)
+  (symbol (lib_id "Device:Q_NPN_CBE") (at 132.08 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 946174ab-5ec7-4038-9187-d97c54504ab3)
     (property "Reference" "T05" (at 137.16 172.72 0)
@@ -3842,7 +3842,7 @@
     )
   )
 
-  (symbol (lib_id "Device:Q_NPN_EBC") (at 120.65 203.2 0) (unit 1)
+  (symbol (lib_id "Device:Q_NPN_CBE") (at 120.65 203.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid def00b0c-10b8-4849-b2ea-fe688ab24358)
     (property "Reference" "T06" (at 125.73 201.93 0)
