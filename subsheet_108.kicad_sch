@@ -1819,9 +1819,6 @@
     (pin "2" (uuid 61d2eee5-eb5b-4bd4-b1ac-72284e323615))
     (instances
       (project "UC-50-001"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b7e71b61-5858-491f-a12d-087d8cf2d648"
-          (reference "R35") (unit 1)
-        )
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/5f0e2042-532a-4df5-a841-fef7a1a0ec91"
           (reference "R35") (unit 1)
         )
