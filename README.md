@@ -25,9 +25,9 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ### Release notes
 
-#### v1.0.0-alpha
+#### v1.0.0-alpha-x
 
-The whole schematics has been captured, need proofreading.
+The whole schematics has been captured, need proofreading. A new alpha is produced regularly after some fixes are commited.
 
 ## 2. What should you know before using **Conversion of the Thomson MO5 main board into Kicad** ?
 
