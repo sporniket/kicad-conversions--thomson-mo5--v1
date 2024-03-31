@@ -1964,6 +1964,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a5854880-3b85-4b5b-8be9-f17211ab6d56)
   )
+  (text "P01 peut-être remplacé par une simple \nrésistance de 460 ohms entre la broche 1 et 2."
+    (at 46.99 88.9 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b3bfe7e2-7595-4aca-9316-e785584e6f1a)
+  )
   (text "Cadencement du stylo optique" (at 68.58 19.05 0)
     (effects (font (size 2 2)) (justify left bottom))
     (uuid b7ba6b99-fba9-4eee-98cd-4845a757ae54)
