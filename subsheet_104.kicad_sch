@@ -1244,7 +1244,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 406284fa-6bb4-4270-a795-ab760f09e09f)
   )
-  (text "Pour la compatibilité avec \nl'extension 64K Nanoréseau\n- Lier la broche a15 à R/~{W}\n- Lier la broche b15 à E\n\nRéférence :\nhttps://forum.system-cfg.com/viewtopic.php?p=229228#p229228"
+  (text "Pour la compatibilité avec \nl'extension 64K Nanoréseau\n- Lier la broche a15 à E\n- Lier la broche b15 à R/~{W}\n\nRéférence :\nhttps://forum.system-cfg.com/viewtopic.php?p=229228#p229228"
     (at 82.55 168.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 40769b7f-b3e7-4cc3-ae40-0927a82894c8)
