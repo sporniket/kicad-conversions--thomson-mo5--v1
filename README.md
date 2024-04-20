@@ -25,7 +25,11 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ### Release notes
 
-#### v1.0.0-alpha-x
+#### v1.0.0-beta-1
+
+The PCB is finished, ready for testing (mechanical, actual assembly) to spot errors.
+
+#### v1.0.0-alpha-1 to v1.0.0-alpha-6
 
 The whole schematics has been captured, need proofreading. A new alpha is produced regularly after some fixes are commited.
 
