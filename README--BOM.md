@@ -1,0 +1,40 @@
+# Bill of material
+
+## Capacitors
+
+### Non polarized
+
+|Quantity|Designators|Value|Comment|
+|---|---|---|---|
+|5|C02, C03, C05, C15, C60|100pF|Radial, pitch 5,08mm/200mils|
+|32|C06, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51|47nF|Radial, pitch 5,08mm/200mils|
+|2|C07, C14|120pF|Radial, pitch 5,08mm/200mils|
+|7|C08, C09, C10, C11, C16, C17, C19|220nF|Radial, pitch 5,08mm/200mils|
+|2|C12, C61|6.8nF|Radial, pitch 5,08mm/200mils|
+|1|C13|1nF|Radial, pitch 5,08mm/200mils|
+|1|C18|10nF|Radial, pitch 5,08mm/200mils|
+|1|C52|2.2uF|Radial, pitch 5,08mm/200mils|
+|1|C59|18pF|Radial, pitch 5,08mm/200mils|
+
+
+### Polarized
+
+Electrolytic capacitors.
+
+|Quantity|Designators|Value|Comment|
+|---|---|---|---|
+|2|C01, C53|100uF|Radial, Pitch 5,08mm/200mils|
+|2|C04, C20|4.7uF|Radial, Pitch 5,08mm/200mils|
+|2|C54, C57|10uF|Radial, Pitch 5,08mm/200mils|
+|1|C55|470uF|Radial, Diameter 10mm, Pitch 5mm|
+|1|C56|1000uF|Radial, Diameter 13mm, Pitch 5mm|
+
+
+## Diodes
+
+|Quantity|Designators|Value|Comment|
+|---|---|---|---|
+|6|D01, D03, D04, D05, D06, D08|1N4148||
+|1|D02|BZX46C||
+|1|D07|BYW98-100|The body hangs in the air, at least 1cm appart from the PCB|
+
