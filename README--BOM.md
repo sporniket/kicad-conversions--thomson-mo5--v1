@@ -34,7 +34,7 @@ Electrolytic capacitors.
 
 |Quantity|Designators|Value|Comment|
 |---|---|---|---|
-|6|D01, D03, D04, D05, D06, D08|1N4148||
-|1|D02|BZX46C||
-|1|D07|BYW98-100|The body hangs in the air, at least 1cm appart from the PCB|
+|6|D01, D03, D04, D05, D06, D08|1N4148|Horizontal mount, pitch 500mils|
+|1|D02|BZX46C|Horizontal mount, pitch 500mils|
+|1|D07|BYW98-100|Horizontal mount, pitch 700mils ; the body hangs in the air, at least 1cm appart from the PCB|
 
