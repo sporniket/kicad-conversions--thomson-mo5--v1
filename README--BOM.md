@@ -4,17 +4,17 @@
 
 ### Non polarized
 
-|Quantity|Designators|Value|Comment|
-|---|---|---|---|
-|5|C02, C03, C05, C15, C60|100pF|Radial, pitch 5,08mm/200mils|
-|32|C06, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51|47nF|Radial, pitch 5,08mm/200mils|
-|2|C07, C14|120pF|Radial, pitch 5,08mm/200mils|
-|7|C08, C09, C10, C11, C16, C17, C19|220nF|Radial, pitch 5,08mm/200mils|
-|2|C12, C61|6.8nF|Radial, pitch 5,08mm/200mils|
-|1|C13|1nF|Radial, pitch 5,08mm/200mils|
-|1|C18|10nF|Radial, pitch 5,08mm/200mils|
-|1|C52|2.2uF|Radial, pitch 5,08mm/200mils|
-|1|C59|18pF|Radial, pitch 5,08mm/200mils|
+|Quantity|Designators|Value|Comment|Suggestion|
+|---|---|---|---|---|
+|5|C02, C03, C05, C15, C60|100pF|Radial, pitch 5,08mm/200mils|Vishay K101K10X7RH5UH5|
+|32|C06, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51|47nF|Radial, pitch 5,08mm/200mils|Vishay K473K10X7RF5UH5|
+|2|C07, C14|120pF|Radial, pitch 5,08mm/200mils|Vishay K121K10X7RF5UH5|
+|7|C08, C09, C10, C11, C16, C17, C19|220nF|Radial, pitch 5,08mm/200mils|Vishay K224K20X7RF5TH5|
+|2|C12, C61|6.8nF|Radial, pitch 5,08mm/200mils|Vishay K682K10X7RH5UH5|
+|1|C13|1nF|Radial, pitch 5,08mm/200mils|Vishay K102K10X7RH5UH5|
+|1|C18|10nF|Radial, pitch 5,08mm/200mils|Vishay K103K15X7RF5UH5|
+|1|C52|2.2uF|Radial, pitch 5,08mm/200mils|TDK FG28X5R1E225KRT06|
+|1|C59|18pF|Radial, pitch 5,08mm/200mils|Vishay K180J15C0GF5TH5|
 
 
 ### Polarized
