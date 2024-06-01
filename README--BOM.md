@@ -21,13 +21,13 @@
 
 Electrolytic capacitors.
 
-|Quantity|Designators|Value|Comment|
-|---|---|---|---|
-|2|C01, C53|100uF|Radial, Pitch 5,08mm/200mils|
-|2|C04, C20|4.7uF|Radial, Pitch 5,08mm/200mils|
-|2|C54, C57|10uF|Radial, Pitch 5,08mm/200mils|
-|1|C55|470uF|Radial, Diameter 10mm, Pitch 5mm|
-|1|C56|1000uF|Radial, Diameter 13mm, Pitch 5mm|
+|Quantity|Designators|Value|Comment|Suggestion|
+|---|---|---|---|---|
+|2|C01, C53|100uF|Radial, Pitch 5,08mm/200mils|Wurth Elektronik 860020473008|
+|2|C04, C20|4.7uF|Radial, Pitch 5,08mm/200mils|Wurth Elektronik 860020472001|
+|2|C54, C57|10uF|Radial, Pitch 5,08mm/200mils|Wurth Elektronik 860020472003 |
+|1|C55|470uF|Radial, Diameter 10mm, Pitch 5mm|Wurth Elektronik 860020474014|
+|1|C56|1000uF|Radial, Diameter 13mm, Pitch 5mm|Wurth Elektronik 860020475018|
 
 
 ## Diodes
