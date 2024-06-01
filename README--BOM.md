@@ -38,3 +38,12 @@ Electrolytic capacitors.
 |1|D02|BZX46C|Horizontal mount, pitch 500mils|
 |1|D07|BYW98-100|Horizontal mount, pitch 700mils ; the body hangs in the air, at least 1cm appart from the PCB|
 
+
+## Inductors
+
+|Quantity|Designators|Value|Comment|Suggestion|
+|---|---|---|---|---|
+|1|L01|150nH|Coated leaded inductor|Bourns 78FR15M-RC|
+|1|L02|350uH|Ferrite core inductor|Bel Signal Transformer HCTI-390-5.0|
+|1|L03|15uH|Ferrite core inductor|Bel Signal Transformer  HCLC-15-13.6|
+
