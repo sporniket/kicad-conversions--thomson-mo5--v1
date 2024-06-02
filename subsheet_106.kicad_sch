@@ -1924,6 +1924,14 @@
     (uuid fed9ee20-2dec-476e-9674-da31563d489e)
   )
 
+  (text_box "Le schéma d'origine indique \"150\" uniquement. Je mets donc nano-Henry car le préfixe \"u\" est spécifié pour L02 et L03."
+    (at 142.24 153.67 0) (size 26.67 10.16)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.1 1.1)) (justify left top))
+    (uuid cf1ceb7b-50aa-4061-af22-0d808df20c5d)
+  )
+
   (text "3.7V" (at 116.84 205.74 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 13adc010-3718-45de-8226-914ee8415553)
@@ -3103,7 +3111,7 @@
     (property "Reference" "L01" (at 135.382 157.734 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "150mH" (at 135.382 159.766 0)
+    (property "Value" "150nH" (at 135.382 159.766 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "commons-passives_THT:Passive_THT_inductor_W5.08mm_L12.70mm" (at 134.62 158.75 0)
