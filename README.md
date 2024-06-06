@@ -25,6 +25,21 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ### Release notes
 
+#### v1.0.0-beta-2
+
+* Issue #1 -- Small corrections for beta2
+  * Schematic -- fixes unit of L01, 'nH' instead of 'mH'
+  * wider lateral chamfers for extension connector, set to 1mm along x and y axis
+  * prevent a small copper pour of GND inside the extension connector
+  * exclude copper pour around internal mounting holes (front layer)
+  * tweak the width of the pads of the extension connector, from 2mm to 1.5mm
+
+* Issue #2 -- Small enhancements for beta2
+  * Silkscreen -- add text to render REVISION and ISSUE_DATE
+  * enlarge vias for modding cartridge port to get E and R/W 
+  * Some additionnal fixes of DRC violations
+  * Schematic -- D02 value becomes 'BZX46C12'
+
 #### v1.0.0-beta-1
 
 The PCB is finished, ready for testing (mechanical, actual assembly) to spot errors.
@@ -35,7 +50,7 @@ The whole schematics has been captured, need proofreading. A new alpha is produc
 
 ## 2. What should you know before using **Conversion of the Thomson MO5 main board into Kicad** ?
 
-**Conversion of the Thomson MO5 main board into Kicad** is made using Kicad 6.
+**Conversion of the Thomson MO5 main board into Kicad** is made using Kicad 7.
 
 > Do not use **Conversion of the Thomson MO5 main board into Kicad** if this project is not suitable for your project.
 
@@ -47,7 +62,7 @@ To get the latest available work, one must clone the git repository.
 
 	git clone --recurse-submodules https://github.com/sporniket/kicad-conversions--thomson-mo5--v1.git
 
-Then, open the project with Kicad 6.
+Then, open the project with Kicad 7.
 
 ## 4. Known issues
 See the [project issues](https://github.com/sporniket/kicad-conversions--thomson-mo5--v1/issues) page.
