@@ -39,6 +39,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
   * enlarge vias for modding cartridge port to get E and R/W 
   * Some additionnal fixes of DRC violations
   * Schematic -- D02 value becomes 'BZX46C12'
+  * Reset switch -- ad-hoc footprint to combine regular switch with the original reset button footprint
 
 #### v1.0.0-beta-1
 
