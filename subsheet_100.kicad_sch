@@ -2640,7 +2640,7 @@
     (property "Value" "Initial Prog." (at 167.64 67.564 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm" (at 167.64 60.96 0)
+    (property "Footprint" "thomson-moto-passives:SW_PUSH_6mm_RESET_MO5" (at 167.64 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 167.64 60.96 0)
