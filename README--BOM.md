@@ -32,11 +32,11 @@ Electrolytic capacitors.
 
 ## Diodes
 
-|Quantity|Designators|Value|Comment|
+|Quantity|Designators|Value|Comment|Suggestion|
 |---|---|---|---|
-|6|D01, D03, D04, D05, D06, D08|1N4148|Horizontal mount, pitch 500mils|
-|1|D02|BZX46C|Horizontal mount, pitch 500mils|
-|1|D07|BYW98-100|Horizontal mount, pitch 700mils ; the body hangs in the air, at least 1cm appart from the PCB|
+|6|D01, D03, D04, D05, D06, D08|1N4148|Horizontal mount, pitch 500mils|Onsemi/Fairchild 1N4148-T26A|
+|1|D02|BZX46C12|Horizontal mount, pitch 500mils|Vishay Semiconductors BZX55C12-TAP|
+|1|D07|BYW98-100|Horizontal mount, pitch 700mils ; the body hangs in the air, at least 1cm appart from the PCB|Diodes incorporated 1N5401G-T|
 
 
 ## Inductors
