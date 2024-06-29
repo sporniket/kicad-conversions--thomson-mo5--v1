@@ -51,37 +51,39 @@ Electrolytic capacitors.
 
 |Quantity|Designators|Value|Comment|Suggestion|
 |---|---|---|---|---|
-|1|Q01|16MHz|HC49-U format, horizontal mounting|
+|1|Q01|16MHz|HC49-U format, horizontal mounting|Abracon AB-16.000MHZ-B2|
 
 ## Resistors
 
+> Unless stated otherwise, mounting is horizontal with a pitch of 500 mils.
+
 |Quantity|Designators|Value|Comment|Suggestion|
 |---|---|---|---|---|
-|19|R01, R03, R05, R10, R30, R31, R32, R33, R35, R42, R48, R49, R50, R51, R52, R56, R77, R78, R82|1KΩ|Horizontal mounting, pitch 500mils|
-|4|R02, R04, R06, R41|68Ω|Horizontal mounting, pitch 500mils|
-|2|R07, R36|680Ω|Horizontal mounting, pitch 500mils|
-|2|R08, R71|100KΩ|Horizontal mounting, pitch 500mils|
-|1|R09|220Ω|Horizontal mounting, pitch 500mils|
-|3|R11, R12, R13|3K3Ω|Horizontal mounting, pitch 500mils|
-|14|R14, R17, R22, R45, R46, R47, R59, R62, R63, R66, R67, R68, R69, R70|10KΩ|Horizontal mounting, pitch 500mils|
-|3|R15, R18, R20|3KΩ|Horizontal mounting, pitch 500mils|
-|7|R16, R19, R21, R39, R44, R54, R58|22KΩ|Horizontal mounting, pitch 500mils|
-|8|R23, R24, R25, R26, R27, R28, R40, R43|4K7Ω|Horizontal mounting, pitch 500mils|
-|3|R29, R34, R38|100Ω|Horizontal mounting, pitch 500mils|
-|1|R37|75Ω|Horizontal mounting, pitch 500mils|
-|2|R53, R61|33KΩ|Horizontal mounting, pitch 500mils|
-|1|R55|24KΩ|Horizontal mounting, pitch 500mils|
-|1|R57|820Ω|Horizontal mounting, pitch 500mils|
-|1|R60|330KΩ|Horizontal mounting, pitch 500mils|
-|1|R64|180Ω|Horizontal mounting, pitch 500mils|
-|1|R65|2K7Ω|Horizontal mounting, pitch 500mils|
-|1|R72|39KΩ|Vertical mounting, pitch 200mils|
-|1|R73|47Ω|Horizontal mounting, pitch 500mils|
-|1|R74|390Ω|Horizontal mounting, pitch 500mils|
-|2|R75, R79|15KΩ|Horizontal mounting, pitch 500mils|
-|1|R76|3K9Ω|Horizontal mounting, pitch 500mils|
-|1|R80|47KΩ|Horizontal mounting, pitch 500mils|
-|2|R81, R83|330Ω|Horizontal mounting, pitch 500mils|
+|19|R01, R03, R05, R10, R30, R31, R32, R33, R35, R42, R48, R49, R50, R51, R52, R56, R77, R78, R82|1KΩ||YAGEO MFR-25FTE52-1K|
+|4|R02, R04, R06, R41|68Ω||YAGEO MFR-25FTE52-68R|
+|2|R07, R36|680Ω||YAGEO MFR-25FTE52-680R|
+|2|R08, R71|100KΩ||YAGEO MFR-25FTE52-100K|
+|1|R09|220Ω||YAGEO MFR-25FTE52-220R|
+|3|R11, R12, R13|3K3Ω||YAGEO MFR-25FTE52-3K3|
+|14|R14, R17, R22, R45, R46, R47, R59, R62, R63, R66, R67, R68, R69, R70|10KΩ||YAGEO MFR-25FTE52-10K|
+|3|R15, R18, R20|3KΩ||YAGEO MFR-25FTE52-3K|
+|7|R16, R19, R21, R39, R44, R54, R58|22KΩ||YAGEO MFR-25FTE52-22K|
+|8|R23, R24, R25, R26, R27, R28, R40, R43|4K7Ω||YAGEO MFR-25FTE52-4K7|
+|3|R29, R34, R38|100Ω||YAGEO MFR-25FTE52-100R|
+|1|R37|75Ω||YAGEO MFR-25FTE52-75R|
+|2|R53, R61|33KΩ||YAGEO MFR-25FTE52-33K|
+|1|R55|24KΩ||YAGEO MFR-25FTE52-24K|
+|1|R57|820Ω||YAGEO MFR-25FTE52-820R|
+|1|R60|330KΩ||YAGEO MFR-25FTE52-330K|
+|1|R64|180Ω||YAGEO MFR-25FTE52-180R|
+|1|R65|2K7Ω||YAGEO MFR-25FTE52-2K7|
+|1|R72|39KΩ|Vertical mounting, pitch 200mils|YAGEO MFR-25FTE52-39K|
+|1|R73|47Ω||YAGEO MFR-25FTE52-47R|
+|1|R74|390Ω||YAGEO MFR-25FTE52-390R|
+|2|R75, R79|15KΩ||YAGEO MFR-25FTE52-15K, KOA Speer MF1/4CCT52R1502F|
+|1|R76|3K9Ω||YAGEO MFR-25FTE52-3K9|
+|1|R80|47KΩ||YAGEO MFR-25FTE52-47K|
+|2|R81, R83|330Ω||YAGEO MFR-25FTE52-330R|
 
 ## Transistors
 
