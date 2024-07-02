@@ -112,7 +112,7 @@ Electrolytic capacitors.
 |1|I20|74LS32 4×2 inputs OR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls32.pdf|Adam Tech ICS-314-T||
 |1|I25|74LS126 Quadruple tampon de bus|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls125a.pdf|Adam Tech ICS-314-T||
 |1|I27|DM7486N 4×2 inputs XOR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54s86.pdf|Adam Tech ICS-314-T||
-|1|I29|Gate array Motorola MC1300|thomson-moto-interconnect:gate_array_plcc68_staggered_with_key_hole||||
+|1|I29|Gate array Motorola MC1300|Staggered PLCC68 with keyhole||||
 |1|I32|74X20 2×4 inputs NAND gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls20.pdf|Adam Tech ICS-314-T||
 |1|I40|74LS30 8 inputs NAND gate|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn5430.pdf|Adam Tech ICS-314-T||
 |1|I45|74LS74 Double Flip-Flop 'D'|DIP 14 W7.62mm|https://www.ti.com/lit/ds/sdls119/sdls119.pdf|Adam Tech ICS-314-T||
