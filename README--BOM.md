@@ -123,7 +123,7 @@ Electrolytic capacitors.
 |1|I48|MC6821 Peripheral Interface Adapter|DIP 40 W15.24mm|Adam Tech ICS-640-T||https://d148k72crfmm2d.cloudfront.net/wp-content/uploads/2017/02/MC6821P.pdf|
 |1|I52|74LS151 MULTIPLEXER|DIP 16 W7.62mm|Adam Tech ICS-316-T||https://www.ti.com/lit/ds/symlink/sn74ls151.pdf|
 |1|I53|74LS156 DEMULTIPLEXER|DIP 16 W7.62mm|Adam Tech ICS-316-T||https://www.ti.com/lit/ds/symlink/sn74ls156.pdf|
-|1|I54|L78L05 TO92|Package_TO_SOT_THT:TO-92_Inline_Wide||STMicroelectronics L78L05ABZ|http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf|
+|1|I54|L78L05 TO92|TO-92||STMicroelectronics L78L05ABZ|http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf|
 |1|I55|LM311N Comparateur différentiel|DIP 8 W7.62mm|Adam Tech ICS-308-T||https://www.ti.com/lit/ds/symlink/lm211.pdf|
 
 
