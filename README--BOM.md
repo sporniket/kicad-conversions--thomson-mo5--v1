@@ -98,30 +98,30 @@ Electrolytic capacitors.
 
 |Quantity|Designators|Value|Comment|Datasheet|Suggestion Socket|Suggestion IC|
 |---|---|---|---|---|---|---|
-|1|I01|MC6809EP|DIP 40 W15.24mm|https://ia601601.us.archive.org/13/items/bitsavers_motorolada_3224333/6809.pdf|||
-|6|I02, I05, I08, I11, I19, I23|TMS4416 – 16k×4bits DRAM|DIP 18 W7.62mm|https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/memory/tms4416.pdf|||
-|1|I03|HM7603 32×8 PROM|DIP 16 W7.62mm|https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/eprom/hm7603.pdf|||
-|1|I04|M27128A 16k×8 EPROM|DIP 28 W15.24mm|https://pdf.datasheetcatalog.com/datasheet_pdf/sgs-thomson-microelectronics/27128.pdf|||
-|2|I06, I10|74LS173 Registre D 4 bits|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls173a.pdf|||
-|2|I07, I17|74LS245 – Bus transceiver|DIP 20 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls245-sp.pdf|||
-|1|I09|74LS32 – 4× 2-input OR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls32.pdf|||
-|1|I12|74LS11 – 3×3 inputs AND gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls11.pdf|||
-|1|I14|74LS156 2×2:4 decoder/demultiplexer|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls156.pdf|||
-|2|I16, I21|74LS04 Sextuple inverseur|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls04.pdf|||
-|1|I18|74LS165 Sérialiseur 8:1|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls165a-sp.pdf|||
-|1|I20|74LS32 4×2 inputs OR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls32.pdf|||
-|1|I25|74LS126 Quadruple tampon de bus|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls125a.pdf|||
-|1|I27|DM7486N 4×2 inputs XOR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54s86.pdf|||
+|1|I01|MC6809EP|DIP 40 W15.24mm|https://ia601601.us.archive.org/13/items/bitsavers_motorolada_3224333/6809.pdf|Adam Tech ICS-640-T||
+|6|I02, I05, I08, I11, I19, I23|TMS4416 – 16k×4bits DRAM|DIP 18 W7.62mm|https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/memory/tms4416.pdf|Adam Tech ICS-318-T||
+|1|I03|HM7603 32×8 PROM|DIP 16 W7.62mm|https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/eprom/hm7603.pdf|Adam Tech ICS-316-T||
+|1|I04|M27128A 16k×8 EPROM|DIP 28 W15.24mm|https://pdf.datasheetcatalog.com/datasheet_pdf/sgs-thomson-microelectronics/27128.pdf|Adam Tech ICS-628-T||
+|2|I06, I10|74LS173 Registre D 4 bits|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls173a.pdf|Adam Tech ICS-316-T||
+|2|I07, I17|74LS245 – Bus transceiver|DIP 20 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls245-sp.pdf|Adam Tech ICS-320-T||
+|1|I09|74LS32 – 4× 2-input OR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls32.pdf|Adam Tech ICS-314-T||
+|1|I12|74LS11 – 3×3 inputs AND gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls11.pdf|Adam Tech ICS-314-T||
+|1|I14|74LS156 2×2:4 decoder/demultiplexer|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls156.pdf|Adam Tech ICS-316-T||
+|2|I16, I21|74LS04 Sextuple inverseur|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls04.pdf|Adam Tech ICS-314-T||
+|1|I18|74LS165 Sérialiseur 8:1|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls165a-sp.pdf|Adam Tech ICS-316-T||
+|1|I20|74LS32 4×2 inputs OR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls32.pdf|Adam Tech ICS-314-T||
+|1|I25|74LS126 Quadruple tampon de bus|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54ls125a.pdf|Adam Tech ICS-314-T||
+|1|I27|DM7486N 4×2 inputs XOR gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54s86.pdf|Adam Tech ICS-314-T||
 |1|I29|Gate array Motorola MC1300|thomson-moto-interconnect:gate_array_plcc68_staggered_with_key_hole||||
-|1|I32|74X20 2×4 inputs NAND gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls20.pdf|||
-|1|I40|74LS30 8 inputs NAND gate|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn5430.pdf|||
-|1|I45|74LS74 Double Flip-Flop 'D'|DIP 14 W7.62mm|https://www.ti.com/lit/ds/sdls119/sdls119.pdf|||
-|1|I46|74LS157 4×2:1 Multiplexeur|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54157.pdf|||
-|1|I47|74LS211 Double multi-vibrateur monostable|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74221.pdf|||
-|1|I48|MC6821 Peripheral Interface Adapter|DIP 40 W15.24mm|https://d148k72crfmm2d.cloudfront.net/wp-content/uploads/2017/02/MC6821P.pdf|||
-|1|I52|74LS151 MULTIPLEXER|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls151.pdf|||
-|1|I53|74LS156 DEMULTIPLEXER|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls156.pdf|||
-|1|I54|L78L05 TO92|Package_TO_SOT_THT:TO-92_Inline_Wide|http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf|||
-|1|I55|LM311N Comparateur différentiel|DIP 8 W7.62mm|https://www.ti.com/lit/ds/symlink/lm211.pdf|||
+|1|I32|74X20 2×4 inputs NAND gates|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls20.pdf|Adam Tech ICS-314-T||
+|1|I40|74LS30 8 inputs NAND gate|DIP 14 W7.62mm|https://www.ti.com/lit/ds/symlink/sn5430.pdf|Adam Tech ICS-314-T||
+|1|I45|74LS74 Double Flip-Flop 'D'|DIP 14 W7.62mm|https://www.ti.com/lit/ds/sdls119/sdls119.pdf|Adam Tech ICS-314-T||
+|1|I46|74LS157 4×2:1 Multiplexeur|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn54157.pdf|Adam Tech ICS-316-T||
+|1|I47|74LS211 Double multi-vibrateur monostable|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74221.pdf|Adam Tech ICS-316-T||
+|1|I48|MC6821 Peripheral Interface Adapter|DIP 40 W15.24mm|https://d148k72crfmm2d.cloudfront.net/wp-content/uploads/2017/02/MC6821P.pdf|Adam Tech ICS-640-T||
+|1|I52|74LS151 MULTIPLEXER|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls151.pdf|Adam Tech ICS-316-T||
+|1|I53|74LS156 DEMULTIPLEXER|DIP 16 W7.62mm|https://www.ti.com/lit/ds/symlink/sn74ls156.pdf|Adam Tech ICS-316-T||
+|1|I54|L78L05 TO92|Package_TO_SOT_THT:TO-92_Inline_Wide|http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf||STMicroelectronics L78L05ABZ|
+|1|I55|LM311N Comparateur différentiel|DIP 8 W7.62mm|https://www.ti.com/lit/ds/symlink/lm211.pdf|Adam Tech ICS-308-T||
 
 
