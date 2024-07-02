@@ -1,5 +1,7 @@
 # Bill of material
 
+> On A4 sized sheets of paper, best printed using landscape format, zooming at most 75%.
+
 ## Capacitors
 
 ### Non polarized
