@@ -46,8 +46,8 @@ Electrolytic capacitors.
 |Quantity|Designators|Value|Comment|Suggestion|
 |---|---|---|---|---|
 |1|L01|150nH|Coated leaded inductor|Bourns 78FR15M-RC|
-|1|L02|350uH|Ferrite core inductor|Bel Signal Transformer HCTI-390-5.0|
-|1|L03|15uH|Ferrite core inductor|Bel Signal Transformer  HCLC-15-13.6|
+|1|L02|350uH|Ferrite core inductor||
+|1|L03|15uH|Ferrite core inductor||
 
 ## Crystal oscillator
 
