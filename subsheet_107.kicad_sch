@@ -1725,7 +1725,7 @@
     (property "Reference" "R79" (at 96.52 45.72 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "15K" (at 101.6 45.72 90)
+    (property "Value" "7K5" (at 101.6 45.72 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "commons-passives_THT:Passive_THT_resistor_EU_W2.54mm_L12.70mm" (at 99.06 46.99 0)
