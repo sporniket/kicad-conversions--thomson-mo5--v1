@@ -25,6 +25,12 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ### Release notes
 
+#### v1.0.0-rc2
+
+Because I hastily pushed rc1 and saw small edit just after that : one measurement position, refill the copper pours.
+
+Other than that, same as rc1.
+
 #### v1.0.0-rc1
 
 Fixes found by assembling the motherboard :
