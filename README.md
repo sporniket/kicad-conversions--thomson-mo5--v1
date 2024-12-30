@@ -25,6 +25,18 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ### Release notes
 
+#### v1.0.0-rc1
+
+Fixes found by assembling the motherboard :
+
+* Fixed the power supply : pin 1 of I55 to GND, values of R79 and R80 (shematic is also more easy to understand)
+* Fixed the reset circuit : value of C01
+* Extended the extension port by 2 mm
+
+For documentation :
+* [BOM](README--BOM.md)
+* Added measurements to the PCB.
+
 #### v1.0.0-beta-2
 
 * Issue #1 -- Small corrections for beta2
