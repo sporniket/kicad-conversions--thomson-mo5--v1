@@ -12,7 +12,12 @@ Content
 
 ## 1. What is **Conversion of the Thomson MO5 main board into Kicad**, and when to use it ?
 
-**Conversion of the Thomson MO5 main board into Kicad** is a conversion to Kicad EDA of the schematics of a computer released around 1984 known as the "Thomson MO5". 
+**Conversion of the Thomson MO5 main board into Kicad** is a conversion to Kicad EDA of the schematics of a computer released around 1984 known as the "Thomson MO5".
+
+There are two revisions of the motherboard : 
+
+* The first version, with a Motorola gate array, is maintained on the `main` branch.
+* The second version, with an EFCIS gate array, is maintained on the `efcis_gate_array` branch.
 
 
 ### Licence
