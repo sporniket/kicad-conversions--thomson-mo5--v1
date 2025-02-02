@@ -25,4 +25,5 @@
   (lib (name "74x86")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x86.lib")(options "")(descr ""))
   (lib (name "74x30")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/74x30.lib")(options "")(descr ""))
   (lib (name "opamp")(type "KiCad")(uri "${KIPRJMOD}/kicad-symbols-handmade/opamp.kicad_sym")(options "")(descr ""))
+  (lib (name "gate_array_v2")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/thomson-mo/gate_array_v2.lib")(options "")(descr ""))
 )
