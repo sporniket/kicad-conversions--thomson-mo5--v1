@@ -278,7 +278,7 @@
           (number "33" (effects (font (size 1.27 1.27))))
         )
         (pin input line (at -6.35 -43.18 90) (length 7.62)
-          (name "PAL/~{NTSC}" (effects (font (size 1.27 1.27))))
+          (name "625/~{525}" (effects (font (size 1.27 1.27))))
           (number "34" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at -3.81 -43.18 90) (length 7.62)
