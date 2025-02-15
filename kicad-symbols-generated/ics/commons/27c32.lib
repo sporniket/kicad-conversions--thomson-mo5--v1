@@ -1,0 +1,178 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+#
+# Symbol set of : 32768-BIT_4096_X_8_CMOS_EPROM
+#
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+# 32768-BIT_4096_X_8_CMOS_EPROM
+#
+DEF 32768-BIT_4096_X_8_CMOS_EPROM U 0 50 Y Y 1 L N
+ALIAS 27C32 NMC27C32B
+F0 "U" 200 1400 50 H V L TNN
+F1 "32768-BIT_4096_X_8_CMOS_EPROM" 200 1300 50 H V L TNB
+F2 "Package_DIP:DIP-24_W15.24mm_LongPads" 200 1500 50 H I L TNN
+F3 "https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/eprom/nmc27c32b.pdf" 200 1600 50 H I L TNN
+DRAW
+S -400 1200 400 -1200 0 0 10 f
+S -400 800 0 500 0 0 10 N
+S -400 500 0 -800 0 0 10 N
+S 200 800 400 -100 0 0 10 N
+X ~E~ 18 -700 700 300 R 50 50 0 0 I 
+X ~G~/VPP 20 -700 600 300 R 50 50 0 0 I 
+X A11 21 -700 400 300 R 50 50 0 0 I 
+X A10 19 -700 300 300 R 50 50 0 0 I 
+X A9 22 -700 200 300 R 50 50 0 0 I 
+X A8 23 -700 100 300 R 50 50 0 0 I 
+X A7 1 -700 0 300 R 50 50 0 0 I 
+X A6 2 -700 -100 300 R 50 50 0 0 I 
+X A5 3 -700 -200 300 R 50 50 0 0 I 
+X A4 4 -700 -300 300 R 50 50 0 0 I 
+X A3 5 -700 -400 300 R 50 50 0 0 I 
+X A2 6 -700 -500 300 R 50 50 0 0 I 
+X A1 7 -700 -600 300 R 50 50 0 0 I 
+X A0 8 -700 -700 300 R 50 50 0 0 I 
+X VCC 24 100 1500 300 D 50 50 0 0 W 
+X Q7 17 700 700 300 L 50 50 0 0 B 
+X Q6 16 700 600 300 L 50 50 0 0 B 
+X Q5 15 700 500 300 L 50 50 0 0 B 
+X Q4 14 700 400 300 L 50 50 0 0 B 
+X Q3 13 700 300 300 L 50 50 0 0 B 
+X Q2 11 700 200 300 L 50 50 0 0 B 
+X Q1 10 700 100 300 L 50 50 0 0 B 
+X Q0 9 700 0 300 L 50 50 0 0 B 
+X GND 12 100 -1500 300 U 50 50 0 0 W 
+ENDDRAW
+ENDDEF
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+# 32768-BIT_4096_X_8_CMOS_EPROM -- Multiple units symbol
+#
+DEF 32768-BIT_4096_X_8_CMOS_EPROM_MU U 0 50 Y Y 4 L N
+ALIAS 27C32_MU NMC27C32B_MU
+F0 "U" 0 300 50 H V L TNN
+F1 "32768-BIT_4096_X_8_CMOS_EPROM" 0 200 50 H V L TNB
+F2 "Package_DIP:DIP-24_W15.24mm_LongPads" 0 400 50 H I L TNN
+F3 "https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/eprom/nmc27c32b.pdf" 0 500 50 H I L TNN
+DRAW
+# --- --- --- ---
+# CTL -- Control signals
+#
+T 0 0 100 50 1 1 0 "Control signals" Normal 0 L T
+S 0 0 500 -300 1 0 10 f
+X ~E~ 18 -300 -100 300 R 50 50 1 0 I 
+X ~G~/VPP 20 -300 -200 300 R 50 50 1 0 I 
+# --- --- --- ---
+# ADDR -- Address bus
+#
+T 0 0 100 50 1 2 0 "Address bus" Normal 0 L T
+S 0 0 400 -1300 2 0 10 f
+X A11 21 -300 -100 300 R 50 50 2 0 I 
+X A10 19 -300 -200 300 R 50 50 2 0 I 
+X A9 22 -300 -300 300 R 50 50 2 0 I 
+X A8 23 -300 -400 300 R 50 50 2 0 I 
+X A7 1 -300 -500 300 R 50 50 2 0 I 
+X A6 2 -300 -600 300 R 50 50 2 0 I 
+X A5 3 -300 -700 300 R 50 50 2 0 I 
+X A4 4 -300 -800 300 R 50 50 2 0 I 
+X A3 5 -300 -900 300 R 50 50 2 0 I 
+X A2 6 -300 -1000 300 R 50 50 2 0 I 
+X A1 7 -300 -1100 300 R 50 50 2 0 I 
+X A0 8 -300 -1200 300 R 50 50 2 0 I 
+# --- --- --- ---
+# DATA -- Data bus
+#
+T 0 0 100 50 1 3 0 "Data bus" Normal 0 L T
+S 0 0 300 -900 3 0 10 f
+X Q7 17 600 -100 300 L 50 50 3 0 B 
+X Q6 16 600 -200 300 L 50 50 3 0 B 
+X Q5 15 600 -300 300 L 50 50 3 0 B 
+X Q4 14 600 -400 300 L 50 50 3 0 B 
+X Q3 13 600 -500 300 L 50 50 3 0 B 
+X Q2 11 600 -600 300 L 50 50 3 0 B 
+X Q1 10 600 -700 300 L 50 50 3 0 B 
+X Q0 9 600 -800 300 L 50 50 3 0 B 
+# --- --- --- ---
+# POWER -- Power distribution
+#
+T 0 0 100 50 1 4 0 "Power distribution" Normal 0 L T
+S 0 0 500 -500 4 0 10 f
+X VCC 24 -300 -100 300 R 50 50 4 0 W 
+X GND 12 400 -800 300 U 50 50 4 0 W 
+ENDDRAW
+ENDDEF
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+# 32768-BIT_4096_X_8_CMOS_EPROM -- Physical, single unit symbol
+#
+DEF 32768-BIT_4096_X_8_CMOS_EPROM_PHY U 0 50 Y Y 1 L N
+ALIAS 27C32_PHY NMC27C32B_PHY
+F0 "U" -400 850 50 H V L TNN
+F1 "32768-BIT_4096_X_8_CMOS_EPROM" -400 750 50 H V L TNB
+F2 "Package_DIP:DIP-24_W15.24mm_LongPads" -400 950 50 H I L TNN
+F3 "https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/eprom/nmc27c32b.pdf" -400 1050 50 H I L TNN
+DRAW
+S -400 650 400 -650 0 0 10 f
+X A7 1 -700 550 300 R 50 50 0 0 I 
+X A6 2 -700 450 300 R 50 50 0 0 I 
+X A5 3 -700 350 300 R 50 50 0 0 I 
+X A4 4 -700 250 300 R 50 50 0 0 I 
+X A3 5 -700 150 300 R 50 50 0 0 I 
+X A2 6 -700 50 300 R 50 50 0 0 I 
+X A1 7 -700 -50 300 R 50 50 0 0 I 
+X A0 8 -700 -150 300 R 50 50 0 0 I 
+X Q0 9 -700 -250 300 R 50 50 0 0 B 
+X Q1 10 -700 -350 300 R 50 50 0 0 B 
+X Q2 11 -700 -450 300 R 50 50 0 0 B 
+X GND 12 -700 -550 300 R 50 50 0 0 W 
+X VCC 24 700 550 300 L 50 50 0 0 W 
+X A8 23 700 450 300 L 50 50 0 0 I 
+X A9 22 700 350 300 L 50 50 0 0 I 
+X A11 21 700 250 300 L 50 50 0 0 I 
+X ~G~/VPP 20 700 150 300 L 50 50 0 0 I 
+X A10 19 700 50 300 L 50 50 0 0 I 
+X ~E~ 18 700 -50 300 L 50 50 0 0 I 
+X Q7 17 700 -150 300 L 50 50 0 0 B 
+X Q6 16 700 -250 300 L 50 50 0 0 B 
+X Q5 15 700 -350 300 L 50 50 0 0 B 
+X Q4 14 700 -450 300 L 50 50 0 0 B 
+X Q3 13 700 -550 300 L 50 50 0 0 B 
+ENDDRAW
+ENDDEF
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+# 32768-BIT_4096_X_8_CMOS_EPROM -- Physical socket, single unit symbol
+#
+DEF 32768-BIT_4096_X_8_CMOS_EPROM_SOCKET U 0 50 Y Y 1 L N
+ALIAS 27C32_SOCKET NMC27C32B_SOCKET
+F0 "U" -400 850 50 H V L TNN
+F1 "32768-BIT_4096_X_8_CMOS_EPROM" -400 750 50 H V L TNB
+F2 "Package_DIP:DIP-24_W15.24mm_LongPads" -400 950 50 H I L TNN
+F3 "https://raw.githubusercontent.com/sporniket/kicad-symbols-generated/main/reference-materials/commons/eprom/nmc27c32b.pdf" -400 1050 50 H I L TNN
+DRAW
+S -400 650 400 -650 0 0 10 f
+X A7 1 -700 550 300 R 50 50 0 0 P 
+X A6 2 -700 450 300 R 50 50 0 0 P 
+X A5 3 -700 350 300 R 50 50 0 0 P 
+X A4 4 -700 250 300 R 50 50 0 0 P 
+X A3 5 -700 150 300 R 50 50 0 0 P 
+X A2 6 -700 50 300 R 50 50 0 0 P 
+X A1 7 -700 -50 300 R 50 50 0 0 P 
+X A0 8 -700 -150 300 R 50 50 0 0 P 
+X Q0 9 -700 -250 300 R 50 50 0 0 P 
+X Q1 10 -700 -350 300 R 50 50 0 0 P 
+X Q2 11 -700 -450 300 R 50 50 0 0 P 
+X GND 12 -700 -550 300 R 50 50 0 0 P 
+X VCC 24 700 550 300 L 50 50 0 0 P 
+X A8 23 700 450 300 L 50 50 0 0 P 
+X A9 22 700 350 300 L 50 50 0 0 P 
+X A11 21 700 250 300 L 50 50 0 0 P 
+X ~G~/VPP 20 700 150 300 L 50 50 0 0 P 
+X A10 19 700 50 300 L 50 50 0 0 P 
+X ~E~ 18 700 -50 300 L 50 50 0 0 P 
+X Q7 17 700 -150 300 L 50 50 0 0 P 
+X Q6 16 700 -250 300 L 50 50 0 0 P 
+X Q5 15 700 -350 300 L 50 50 0 0 P 
+X Q4 14 700 -450 300 L 50 50 0 0 P 
+X Q3 13 700 -550 300 L 50 50 0 0 P 
+ENDDRAW
+ENDDEF
+#
+#End Library
