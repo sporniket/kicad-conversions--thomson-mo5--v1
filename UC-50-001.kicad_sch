@@ -202,7 +202,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid ecfd8528-d7bf-4f5f-9e5b-93e6e3949e61)
-    (property "Sheetname" "I04–EPROM ; B06–Connecteur cartouche ; B01–02–Connecteur d'extension" (at 30.48 110.7834 0)
+    (property "Sheetname" "I04-56–EPROM ; B06–Connecteur cartouche ; B01–02–Connecteur d'extension" (at 30.48 110.7834 0)
       (effects (font (size 1.8 1.8)) (justify left bottom))
     )
     (property "Sheetfile" "subsheet_104.kicad_sch" (at 30.48 116.1546 0)

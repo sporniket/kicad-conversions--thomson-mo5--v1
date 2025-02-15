@@ -2405,7 +2405,7 @@
   (symbol (lib_id "27c32:32768-BIT_4096_X_8_CMOS_EPROM_PHY") (at 139.7 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b81fddfc-3afe-45c7-9b52-4a3bd5b7e6d3)
-    (property "Reference" "U1" (at 129.54 43.18 0)
+    (property "Reference" "I56" (at 129.54 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (property "Value" "2732 4k×8 EPROM" (at 129.54 45.72 0)
@@ -2444,7 +2444,7 @@
     (instances
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ecfd8528-d7bf-4f5f-9e5b-93e6e3949e61"
-          (reference "U1") (unit 1)
+          (reference "I56") (unit 1)
         )
       )
     )
