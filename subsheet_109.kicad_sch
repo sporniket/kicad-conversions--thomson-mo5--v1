@@ -9,7 +9,8 @@
     (date "2025-02-08")
     (rev "v2.0.0-alpha")
     (comment 1 "http://github.com/sporniket/kicad-conversions--thomson-mo5--v1")
-    (comment 3 "Gate Array EFCIS")
+    (comment 3 "Gate Array EFCIS EFG-J033-E / Matra-Harris MA4-Q1200 (POP 5007S, POP 5009S)")
+    (comment 4 "Références : POP 5003S, POP 5005S, POP 5007S, POP 5009S")
   )
 
   (lib_symbols
@@ -560,6 +561,11 @@
   (text "De I09" (at 93.98 72.39 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid db913861-0565-4ad6-9ee7-0e310afadd80)
+  )
+  (text "Les modules mémoire I100, I101 et I102 sont implantables uniquement sur les révisions POP 5007S et POP 5009S de la carte-mère."
+    (at 41.91 34.29 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid dd050b39-042b-4daf-9220-d44d6c3d8c6d)
   )
 
   (label "MA1" (at 104.14 106.68 0) (fields_autoplaced)

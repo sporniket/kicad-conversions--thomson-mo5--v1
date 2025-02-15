@@ -9,7 +9,8 @@
     (date "2025-02-08")
     (rev "v2.0.0-alpha")
     (comment 1 "http://github.com/sporniket/kicad-conversions--thomson-mo5--v1")
-    (comment 3 "Gate Array EFCIS")
+    (comment 3 "Gate Array EFCIS EFG-J033-E / Matra-Harris MA4-Q1200 (POP 5007S, POP 5009S)")
+    (comment 4 "Références : POP 5003S, POP 5005S, POP 5007S, POP 5009S")
   )
 
   (lib_symbols

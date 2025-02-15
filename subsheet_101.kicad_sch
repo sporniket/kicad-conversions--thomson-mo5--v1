@@ -9,7 +9,8 @@
     (date "2025-02-08")
     (rev "v2.0.0-alpha")
     (comment 1 "http://github.com/sporniket/kicad-conversions--thomson-mo5--v1")
-    (comment 3 "Gate Array EFCIS")
+    (comment 3 "Gate Array EFCIS EFG-J033-E / Matra-Harris MA4-Q1200 (POP 5007S, POP 5009S)")
+    (comment 4 "Références : POP 5003S, POP 5005S, POP 5007S, POP 5009S")
   )
 
   (lib_symbols
@@ -682,7 +683,7 @@
     (stroke (width 0) (type default))
     (uuid 39e82a1c-6fd3-4054-8fa4-84ab7729c7a4)
   )
-  (polyline (pts (xy 135.89 85.09) (xy 195.58 85.09))
+  (polyline (pts (xy 135.89 87.63) (xy 195.58 87.63))
     (stroke (width 0) (type default))
     (uuid 3d023504-07ca-4881-b542-7b46074812a8)
   )
@@ -876,7 +877,7 @@
     (stroke (width 0) (type default))
     (uuid ad24255c-0bd0-438c-8e4b-3173d22b3e17)
   )
-  (polyline (pts (xy 135.89 66.04) (xy 135.89 85.09))
+  (polyline (pts (xy 135.89 66.04) (xy 135.89 87.63))
     (stroke (width 0) (type default))
     (uuid adba929c-1885-49c2-81c1-66c68188ceb8)
   )
@@ -1024,8 +1025,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cad13c18-1919-4bf3-9e78-d9b15a30587f)
   )
-  (text "Le gate-array Matra-Harris MA4-Q1200 est\ninterchangeable avec le gate-array EFCIS\nEFG-J033-E, MAIS nécessite un condensateur\nde 220pF supplémentaire.\nCe condensateur \"60bis\" est installé entre une\nvia de la piste et une via de la masse juste\nau sud-est de I25"
-    (at 149.86 82.55 0)
+  (text "Le gate-array Matra-Harris MA4-Q1200 est\ninterchangeable avec le gate-array EFCIS\nEFG-J033-E, MAIS nécessite un condensateur\nde 220pF supplémentaire.\nCe condensateur \"60bis\" est installé entre une\nvia de la piste et une via de la masse juste\nau sud-est de I25.\n\n(POP 5007S, POP 5009S)"
+    (at 149.86 85.09 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d0b53156-8c31-46ff-b308-3c97062b237b)
   )
