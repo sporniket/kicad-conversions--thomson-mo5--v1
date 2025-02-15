@@ -24,6 +24,10 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 3977b2f6-010b-4281-904f-f47105240d5e)
   )
+  (text "page 11" (at 176.53 160.02 0)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 4ed0d3ed-a9f5-4a44-83ee-c0cb5b635c1c)
+  )
   (text "page 4" (at 176.53 80.01 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 52b13f5c-e602-4e5e-a459-384c1e4e51a4)
@@ -172,6 +176,23 @@
     (instances
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 30.48 157.48) (size 147.32 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bc3b0227-a5b4-4659-8f91-1fe65bb5ff22)
+    (property "Sheetname" "I100-I101-I102 Custom SIPP memory modules" (at 30.48 156.5034 0)
+      (effects (font (size 1.8 1.8)) (justify left bottom))
+    )
+    (property "Sheetfile" "subsheet_109.kicad_sch" (at 30.48 161.8746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UC-50-001"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "11"))
       )
     )
   )
