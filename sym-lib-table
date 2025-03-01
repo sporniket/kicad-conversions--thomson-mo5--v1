@@ -28,4 +28,5 @@
   (lib (name "gate_array_v2")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/thomson-mo/gate_array_v2.lib")(options "")(descr ""))
   (lib (name "27c32")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/commons/27c32.lib")(options "")(descr ""))
   (lib (name "memory_module")(type "Legacy")(uri "${KIPRJMOD}/kicad-symbols-generated/ics/thomson-mo/memory_module.lib")(options "")(descr ""))
+  (lib (name "custom_passives")(type "KiCad")(uri "${KIPRJMOD}/kicad-symbols-handmade/custom_passives.kicad_sym")(options "")(descr ""))
 )
