@@ -1611,7 +1611,7 @@
   (symbol (lib_id "Device:C_Small") (at 140.97 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 68a9eec1-7443-47a7-968b-da7da5065afb)
-    (property "Reference" "C60bis" (at 142.24 69.85 0)
+    (property "Reference" "C6000" (at 142.24 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "220pF" (at 142.24 72.39 0)
@@ -1628,7 +1628,7 @@
     (instances
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/f465a4b1-7c3c-40cc-9e66-ff9f17003d42"
-          (reference "C60bis") (unit 1)
+          (reference "C6000") (unit 1)
         )
       )
     )
@@ -1796,7 +1796,7 @@
     (property "Value" "Jumper wire" (at 68.58 189.23 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 68.58 184.15 0)
+    (property "Footprint" "thomson-moto-passives:Passive_THT_jumper_wire_W2.54mm_L10.16mm" (at 68.58 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 68.58 184.15 0)
@@ -1847,7 +1847,7 @@
     (property "Value" "Jumper wire" (at 68.58 201.93 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 68.58 196.85 0)
+    (property "Footprint" "thomson-moto-passives:Passive_THT_jumper_wire_W2.54mm_L10.16mm" (at 68.58 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 68.58 196.85 0)
