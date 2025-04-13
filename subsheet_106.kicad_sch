@@ -3301,7 +3301,7 @@
   (symbol (lib_id "Device:Q_NPN_CBE") (at 132.08 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 946174ab-5ec7-4038-9187-d97c54504ab3)
-    (property "Reference" "T05" (at 137.16 172.72 0)
+    (property "Reference" "T13" (at 137.16 172.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC337-40" (at 137.16 175.26 0)
@@ -3319,7 +3319,7 @@
     (instances
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45"
-          (reference "T05") (unit 1)
+          (reference "T13") (unit 1)
         )
       )
     )

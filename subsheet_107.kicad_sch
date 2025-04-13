@@ -2408,7 +2408,7 @@
   (symbol (lib_id "Device:Q_NPN_CBE") (at 154.94 113.03 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 306bd4c5-e2e6-4b52-81a3-79552073a8ea)
-    (property "Reference" "T5" (at 149.86 111.76 0)
+    (property "Reference" "T05" (at 149.86 111.76 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC547B" (at 149.86 114.3 0)
@@ -2426,7 +2426,7 @@
     (instances
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/86f44e2a-9fb4-43d0-b64c-d20135fe820e"
-          (reference "T5") (unit 1)
+          (reference "T05") (unit 1)
         )
       )
     )
@@ -3713,7 +3713,7 @@
   (symbol (lib_id "Device:Fuse_Small") (at 73.66 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid efbfcec2-809c-4ca5-9a86-7550127f6686)
-    (property "Reference" "F1" (at 73.66 36.83 0)
+    (property "Reference" "F01" (at 73.66 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Thermal Switch" (at 81.28 41.91 0)
@@ -3730,7 +3730,7 @@
     (instances
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/86f44e2a-9fb4-43d0-b64c-d20135fe820e"
-          (reference "F1") (unit 1)
+          (reference "F01") (unit 1)
         )
       )
     )

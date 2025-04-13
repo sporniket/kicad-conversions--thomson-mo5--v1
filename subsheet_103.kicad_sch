@@ -3302,7 +3302,7 @@
     (property "Value" "39K" (at 97.79 223.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "commons-passives_THT:Passive_THT_resistor_EU_W2.54mm_L5.08mm" (at 96.52 222.25 0)
+    (property "Footprint" "commons-passives_THT:Passive_THT_resistor_EU_W2.54mm_L12.70mm" (at 96.52 222.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 96.52 222.25 0)
