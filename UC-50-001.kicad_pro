@@ -502,6 +502,70 @@
       {
         "netclass": "Power",
         "pattern": "+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+18V_Raw"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+18V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+12V_Raw"
+      },
+      {
+        "netclass": "PowerLite",
+        "pattern": "+12V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D10-G)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D12-A)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D9-A)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(L02-Pad2)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(I55-IN+)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(I55-IN-)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(R81-Pad1)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(I55-COL_OUT)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(J07-B)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(T12-B)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D07-K)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D11-K)"
       }
     ]
   },
