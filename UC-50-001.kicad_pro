@@ -459,7 +459,7 @@
         "line_style": 0,
         "microvia_diameter": 0.5,
         "microvia_drill": 0.3,
-        "name": "Audio",
+        "name": "Analog",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.508,
@@ -585,8 +585,12 @@
         "pattern": "Net-(D11-K)"
       },
       {
-        "netclass": "Audio",
+        "netclass": "Analog",
         "pattern": "Net-(T11-B)"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "Net-(J05-Pin_1)"
       }
     ]
   },
