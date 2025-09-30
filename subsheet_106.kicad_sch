@@ -2857,6 +2857,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 25.4 205.74 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 7d625082-41e6-451f-9ed6-bd9d6ea72550)
+    (property "Reference" "#PWR035" (at 25.4 212.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 25.4 209.55 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 25.4 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 25.4 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b2dcb9e4-16fc-40ad-affd-cb2376812c4b))
+    (instances
+      (project "UC-50-001"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45"
+          (reference "#PWR035") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 54.61 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 824eb6ad-0a6b-40aa-bccf-5fd46084dccb)
@@ -3203,31 +3228,6 @@
       (project "UC-50-001"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45"
           (reference "#PWR0272") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+5V") (at 25.4 205.74 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b042d120-3292-49ce-aad4-e9a645092ca7)
-    (property "Reference" "#PWR0271" (at 25.4 209.55 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 24.13 204.47 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "" (at 25.4 205.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 25.4 205.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 05299644-aa67-44ec-9f69-c161124868c4))
-    (instances
-      (project "UC-50-001"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/706ec47c-3d4a-4bde-bb8b-c4f8dcc96c45"
-          (reference "#PWR0271") (unit 1)
         )
       )
     )
