@@ -591,6 +591,10 @@
       {
         "netclass": "Analog",
         "pattern": "Net-(J05-Pin_1)"
+      },
+      {
+        "netclass": "PowerLite",
+        "pattern": "Net-(C55-Pad1)"
       }
     ]
   },
