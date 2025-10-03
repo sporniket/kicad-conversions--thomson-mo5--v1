@@ -1004,8 +1004,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 60be8167-386b-43c6-a8a4-d700fa7ec3b0)
   )
-  (text "ATTENTION :\nLes seules broches d'alimentation connectées\nsont la broche 2 (VCC) et la broche 35 (GND)\n\nLes broches 1 et 17 (GND) et la broche 18 (VCC)\nsont laissés flottantes."
-    (at 25.4 50.8 0)
+  (text "ATTENTION :\nLes seules broches d'alimentation connectées\nsont la broche 2 (VCC) et la broche 35 (GND)\n\nLes broches 1 et 17 (GND) et les broches 18 et 52 (VCC)\nsont laissés flottantes.\n\nSemble cohérent avec la photo du silicon annotée par furrtek\n\nhttps://github.com/furrtek/SiliconRE/blob/master/Misc/EFGJ03L/\n\nImages (l'image complète pèse 64 Mo)\nhttps://siliconpr0n.org/map/thomson/efgj03l/single/\n"
+    (at 114.3 190.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 62a5470b-ffe6-4feb-bd63-73c44d474d67)
   )
